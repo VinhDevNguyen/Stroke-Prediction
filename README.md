@@ -6,4 +6,5 @@
    * [x] Pairplot
    * [x] Show correlation
    * [x] Boxplot
+   * [x] Count unique value
 2. Preprocessing data
