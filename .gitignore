@@ -1,3 +1,4 @@
 Stroke_Env/
 .vscode/
 Stroke_Predict/
+__pycache__
