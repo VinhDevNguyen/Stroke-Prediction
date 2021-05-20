@@ -18,6 +18,6 @@ def generate_submission(model, test_data, model_name = ""):
 
     data_test_submit = {'id': id_test, 'stroke': y_pred}
     df_test_submit = pd.DataFrame(data= data_test_submit)
-    df_test_submit.to_csv('./Dataset/submission_' + model_name + '.csv', index= False)
+    df_test_submit.to_csv('./Submission/submission_' + model_name + '.csv', index= False)
 
     return 
